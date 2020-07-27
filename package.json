@@ -1,6 +1,6 @@
 {
   "name": "slh-portfolio-site",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A clean, beautiful and responsive portfolio",
   "main": "index.js",
   "scripts": {

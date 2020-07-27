@@ -31,5 +31,8 @@ module.exports = {
       $: "jquery",
       jQuery: "jquery"
     })
-  ]
+  ],
+  devServer: {
+    host: '0.0.0.0'
+  }
 };
